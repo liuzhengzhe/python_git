@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1576406845 source:d:\codeblocks\usaco\contest1\main.cpp
-	<iostream>
-	<iostream>
-	<fstream>
-	<map>
-
