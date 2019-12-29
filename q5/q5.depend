@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1575100919 source:d:\codeblocks\usaco\q5\main.cpp
+	<iostream>
+	<fstream>
+	<vector>
+	<algorithm>
+

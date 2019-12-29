@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1562479576 source:d:\codeblocks\usaco\q4\main.cpp
+	<iostream>
+	<fstream>
+
