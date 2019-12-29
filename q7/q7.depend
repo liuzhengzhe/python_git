@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1575681586 source:d:\codeblocks\usaco\q7\main.cpp
-	<iostream>
-	<fstream>
-	<typeinfo>
-

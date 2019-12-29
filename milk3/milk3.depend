@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1576388232 source:d:\codeblocks\usaco\milk3\main.cpp
-	<iostream>
-	<fstream>
-	<map>
-
