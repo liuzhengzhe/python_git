@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561708441 source:e:\usaco\q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
+1561775958 source:d:\codeblocks\usaco\q1\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+
